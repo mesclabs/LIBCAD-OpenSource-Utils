@@ -1,0 +1,1 @@
+__kernel void TestKernel(__global float* buffer, float scalar, int width){ buffer[(get_global_id(0)*width)+get_global_id(1)] = scalar;}
