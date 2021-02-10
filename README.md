@@ -51,8 +51,9 @@ Please cite this work as:
 
 ``` tex
 @Manual{LIBCADUtil2012,
-author = {MESC Labs for Research and Development}
+author = {Marzouk, Omar S., Yousef, Waleed A.}
 title = {LIBCAD-OpenSource: Software Utilities for Computer Aided Detection (CAD)},
+publisher = {{MESC Labs for Research and Development}}
 year = {2012},
 url = {https://github.com/mesclabs/LIBCAD-OpenSource}
 }
